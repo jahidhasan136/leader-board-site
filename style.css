@@ -140,13 +140,13 @@ hr{
 }
 .course{
     width: 242px;
-    height: 270px;
     box-shadow: 0 5px 13px rgba(0, 0, 0, 0.07);
     border-radius: 5px;
     padding: 12px;
 }
 .course-info{
     display: flex;
+    align-items: center;
 }
 .course > img{
     width: 100%;
